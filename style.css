@@ -15,3 +15,31 @@ body {
     background-color: white; 
     border: 1px;
 }
+
+.produtos {
+    width: 1440px;
+    height: 264px; 
+    background-color: white; 
+    border: 1px;
+}
+
+.promocao {
+    width: 1440px;
+    height: 275px; 
+    background-color: white; 
+    border: 1p
+}
+
+.contato {
+    width: 1440px;
+    height: 310px; 
+    background-color: white; 
+    border: 1p
+}
+
+.rodape {
+    width: 1440px;
+    height: 60px; 
+    background-color: white; 
+    border: 1p
+}
