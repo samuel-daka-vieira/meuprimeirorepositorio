@@ -35,7 +35,7 @@ body {
     height: 275px; 
     background-color: white; 
     opacity: 30%;
-    border: 1p
+    border: 1px;
 }
 
 .contato {
@@ -44,7 +44,7 @@ body {
     height: 230px; 
     background-color: white; 
     opacity: 30%;
-    border: 1p
+    border: 1px;
 }
 
 .rodape {
@@ -53,5 +53,5 @@ body {
     height: 60px; 
     background-color: white; 
     opacity: 10%;
-    border: 1p
+    border: 1px;
 }
