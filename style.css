@@ -23,7 +23,7 @@ body {
 .produtos {
     position: relative;
     width: 100%;
-    height: 230px; 
+    height: 275px; 
     background-color: white; 
     opacity: 10%;
     border: 1px;
@@ -41,7 +41,7 @@ body {
 .contato {
     position: relative;
     width: 100%;
-    height: 275px; 
+    height: 230px; 
     background-color: white; 
     opacity: 30%;
     border: 1p
