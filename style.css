@@ -3,43 +3,55 @@ body {
 }
 
 .cabecalho {
-    width: 1400px;
+    position: relative;
+    width: 100%;
     height: 108px; 
     background-color: white; 
+    opacity: 10%;
     border: 1px;
 }
 
 .bemvindo {
-    width: 1400px;
+    position: relative;
+    width: 100%;
     height: 234px; 
     background-color: white; 
+    opacity: 30%;
     border: 1px;
 }
 
 .produtos {
-    width: 1400px;
+    position: relative;
+    width: 100%;
     height: 264px; 
     background-color: white; 
+    opacity: 10%;
     border: 1px;
 }
 
 .promocao {
-    width: 1400px;
+    position: relative;
+    width: 100%;
     height: 275px; 
     background-color: white; 
+    opacity: 30%;
     border: 1p
 }
 
 .contato {
-    width: 1400px;
+    position: relative;
+    width: 100%;
     height: 310px; 
     background-color: white; 
+    opacity: 30%;
     border: 1p
 }
 
 .rodape {
-    width: 1400px;
+    position: relative;
+    width: 100%;
     height: 60px; 
     background-color: white; 
+    opacity: 10%;
     border: 1p
 }
