@@ -79,6 +79,14 @@ body {
     position: relative;
 }
 
+.menu ul li a {
+	text-decoration: none;
+	text-transform: uppercase;
+	padding: 5px 10px;
+	border-radius: 5px;
+	color: #000000;
+}
+
 .menu ul li a:hover {
     background: #e85846;    
     color: #FFFFFF;
