@@ -59,7 +59,7 @@ body {
 /*cabecalho*/
 
 .menu {
-    float: right;
+    float: left;
     margin-top: 15px;
     width: 460px;
     padding: 20px;
@@ -71,7 +71,7 @@ body {
     list-style: none;
     margin: 0;
     padding: 0;
-    float: rigth;
+    float: left;
 }
 
 .menu ul li {
