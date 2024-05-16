@@ -77,7 +77,7 @@ body {
 .menu ul li {
     display: inline-block;
     position: relative;
-    margin-right: 10px;
+    margin-right: 50px;
 }
 
 .menu ul li a {
