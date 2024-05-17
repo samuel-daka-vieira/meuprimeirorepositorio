@@ -91,7 +91,7 @@ body {
 
 .pesquisa {
     display: flex;
-    align-items: center;
+    margin-top: 50px;
 }
 
 .pesquisa input {
@@ -102,7 +102,7 @@ body {
 }
 
 .pesquisa button {
-    padding: 20px 40px;
+    padding: 5px 10px;
     border-radius: 5px;
     border: none;
     background-color: #030303;
