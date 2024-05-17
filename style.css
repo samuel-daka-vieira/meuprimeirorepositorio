@@ -89,31 +89,3 @@ body {
     color: #FFFFFF;
 }
 
-#pesquisa {
-    display: flex;
-    align-items: center;
-}
-
-#pesquisa form {
-    display: flex;
-}
-
-#pesquisa input {
-    padding: 5px;
-    border: 1px color: darkred;
-    border-radius: 5px 0 0 5px;
-}
-
-#pesquisa button {
-    padding: 5px 10px;
-    border: 1px color: darkblue;
-    border-left: none;
-    border-radius: 0 5px 5px 0;
-    background-color: #e85846;
-    color: white;
-    cursor: pointer;
-}
-
-#pesquisa button:hover {
-    background-color: #d1473a;
-}
