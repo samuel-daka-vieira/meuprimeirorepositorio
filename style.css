@@ -68,7 +68,7 @@ body {
 .menu ul {
     list-style: none;
     margin: 0px;
-    padding: 0px;
+    padding: 30px;
     display: flex;
 }
 
