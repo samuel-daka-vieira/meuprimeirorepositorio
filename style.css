@@ -123,3 +123,8 @@ body {
 	border-radius: 5px;
 	color: #000000;
 }
+
+.bemvindo ul li a:hover {
+    background: #e85846;
+    color: #ffffff;
+}
