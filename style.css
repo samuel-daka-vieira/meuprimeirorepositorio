@@ -161,35 +161,35 @@ body {
     font-size: 22px;
 }
 
-#menu li {
+#bemvindo li {
 	border: 1px solid #545454;
 	background-color: #AAFF91;
 	display: inline-block;
 	float: left;
 	position: relative;
 }
-#menu li a {
+#bemvindo li a {
 	text-decoration: none;
 	color: #545454;
 	padding: 5px 10px;
 }
-#menu li:hover {
+#bemvindo li:hover {
 	background-color: #545454;
 }
-#menu li a:hover {
+#bemvindo li a:hover {
 	color: #AAFF91;
 }
 
-#menu li ul {
+#bemvindo li ul {
 	position: absolute;
 	top: 28px;
 	left: -40px;
 	background-color: #FFFFFF;
 	display: none;
 }
-#menu li:hover ul, menu li.hover ul {
+#bemvindo li:hover ul, menu li.hover ul {
 	display: block;
 }
-#menu li ul li {
+#bemvindo li ul li {
 	width: 120px;
 }
