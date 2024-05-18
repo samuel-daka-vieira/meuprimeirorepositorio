@@ -153,3 +153,7 @@ body {
     font-weight: normal;
 }
 
+.acessorios-menu a {
+    display: block;
+}
+
