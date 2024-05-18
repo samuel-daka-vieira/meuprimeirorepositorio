@@ -95,6 +95,10 @@ body {
     height: 32px;
 }
 
+.pesquisa #pesquisa{
+    width: 250px;
+}
+
 /*produtos*/
 
 .bemvindo {
