@@ -155,7 +155,7 @@ body {
 
 .acessorios-menu {
     position: absolute;
-    border: 1px solid #000000;
+   box-shadow: 0 0 2px #000000;
 }
 
 .acessorios-menu a {
