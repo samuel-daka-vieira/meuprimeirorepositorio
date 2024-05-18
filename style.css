@@ -163,7 +163,7 @@ body {
     display: block;
 }
 
-.acessorios:hover acessorios-menu {
+.acessorios:hover .acessorios-menu {
     display: block;
 }
 
