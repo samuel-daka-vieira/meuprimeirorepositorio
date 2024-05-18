@@ -157,14 +157,12 @@ body {
 	padding: 0;
 	list-style: none;
 	font-family: tahoma, sans-serif;
-	font-size: 22px;
+	font-size: 20px;
 
 }
 #bemvindo li {
-	border: 1px solid #545454;
-	background-color: #AAFF91;
 	display: inline-block;
-	float: left;
+	float: auto;
 	position: relative;
 }
 #bemvindo li a {
