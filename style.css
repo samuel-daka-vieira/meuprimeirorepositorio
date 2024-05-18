@@ -158,35 +158,4 @@ body {
 	list-style: none;
 	font-family: tahoma, sans-serif;
 	font-size: 20px;
-
 }
-#bemvindo li {
-	display: inline-block;
-	float: auto;
-	position: relative;
-}
-#bemvindo li a {
-	text-decoration: none;
-	color: #545454;
-	padding: 5px 10px;
-}
-#bemvindo li:hover {
-	background-color: #545454;
-}
-#bemvindo li a:hover {
-	color: #AAFF91;
-}
-
-#bemvindo li ul {
-	position: absolute;
-	top: 28px;
-	left: -40px;
-	background-color: #FFFFFF;
-	display: none;
-}
-#bemvindo li:hover ul, menu li.hover ul {
-	display: block;
-}
-#bemvindo li ul li {
-	width: 120px;
-}	margin: 0;
