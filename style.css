@@ -128,3 +128,18 @@ body {
     background: #e85846;
     color: #ffffff;
 }
+
+/*direitos*/
+
+.direitos {
+    width: 880px;
+    background-color: #e85846;
+    padding: 10px;
+}
+
+.direitos h2 {
+    color: #c0c0c0;
+    font-size: 16px;
+    text-align: center;
+    font-weight: normal;
+}
