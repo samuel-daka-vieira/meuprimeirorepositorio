@@ -91,7 +91,7 @@ body {
 
 .pesquisa {
     margin-left: 50px;
-    width: 567px;
+    width: 800px;
     height: 32px;
 }
 
@@ -130,6 +130,9 @@ body {
 }
 
 /*direitos*/
+.rodape{
+    text-align: center;
+}
 
 .direitos {
     width: 880px;
