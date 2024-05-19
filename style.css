@@ -112,6 +112,10 @@ body {
     display: flex;
 }
 
+#texto hli {
+	text-align: center;
+}
+
 #texto p {
     margin-right: 50px;
     margin-top: 10px;
