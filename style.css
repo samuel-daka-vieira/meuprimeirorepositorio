@@ -195,4 +195,18 @@ body {
     display: block;
 }
 
+.eletronicos-menu {
+    position: absolute;
+   box-shadow: 0 0 2px #000000;
+   display: none;
+}
+
+.eletronicos-menu a {
+    display: block;
+}
+
+.eletronicos:hover .eletronicos-menu {
+    display: block;
+}
+
 
