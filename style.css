@@ -103,15 +103,13 @@ body {
 
 /*bem vindo*/
 
-#bemvindo {
+.bemvindo {
     margin-top: 15px;
 }
 
-#bemvindo ul {
-    list-style: none;
-    display: flex;
+#imglogo ul li {
+    margin-right: 20px;
 }
-
 
 #texto p {
     margin-right: 50px;
@@ -119,11 +117,6 @@ body {
     color: #ffffff;
     text-align: right;
 }
-
-#imglogo ul li {
-    margin-right: 20px;
-}
-
 
 /*produtos*/
 
