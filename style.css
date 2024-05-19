@@ -135,24 +135,6 @@ body {
     color: #ffffff;
 }
 
-/*direitos*/
-.rodape{
-    text-align: center;
-}
-
-.direitos {
-    width: 880px;
-    padding: 0px;
-    margin-right: 150px;
-}
-
-.direitos h2 {
-    color: #000000;
-    font-size: -5px;
-    text-align: center;
-    font-weight: normal;
-}
-
 .acessorios-menu {
     position: absolute;
    box-shadow: 0 0 2px #000000;
@@ -208,5 +190,25 @@ body {
 .eletronicos:hover .eletronicos-menu {
     display: block;
 }
+
+/*direitos*/
+.rodape{
+    text-align: center;
+}
+
+.direitos {
+    width: 880px;
+    padding: 0px;
+    margin-right: 150px;
+}
+
+.direitos h2 {
+    color: #000000;
+    font-size: -5px;
+    text-align: center;
+    font-weight: normal;
+}
+
+
 
 
