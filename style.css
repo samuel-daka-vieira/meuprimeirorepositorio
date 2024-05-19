@@ -112,14 +112,12 @@ body {
     display: flex;
 }
 
-#texto li {
-	text-align: center;
-}
 
 #texto p {
     margin-right: 50px;
     margin-top: 10px;
     color: #ffffff;
+    text-align: left;
 }
 
 #imglogo ul li {
