@@ -108,14 +108,15 @@ body {
 }
 
 .bemvindo ul  {
-    list-style: none;
     margin: 0px;
     padding: 35px;
     display: flex;
 }
 
 .bemvindo ul li {
-    margin-bottom: 90px;
+    width: 531px;
+    height: 207px;
+    margin-bottom: 50px;
 }
 
 /*produtos*/
