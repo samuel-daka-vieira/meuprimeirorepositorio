@@ -101,6 +101,12 @@ body {
     width: 250px;
 }
 
+/*bem vindo*/
+
+.bemvindo {
+    margin-top: 10px;
+}
+
 /*produtos*/
 
 .produtos {
