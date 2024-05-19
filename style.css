@@ -103,7 +103,7 @@ body {
 
 /*produtos*/
 
-.bemvindo {
+.produtos {
     margin-top: 20px;
     padding: 15px;
     font-family: sans-serif;
@@ -111,19 +111,19 @@ body {
     display: flex;
 }  
 
-.bemvindo ul {
+.produtos ul {
     list-style: none;
     margin: 0px;
     padding: 70px 50px 50px;
     display: flex;
 }
 
-.bemvindo ul li {
+.produtos ul li {
     margin-left: 200px;
     margin-top: 20px;
 }
 
-.bemvindo ul li a {
+.produtos ul li a {
 	text-decoration: none;
 	text-transform: uppercase;
 	padding: 5px 10px;
@@ -131,7 +131,7 @@ body {
 	color: #000000;
 }
 
-.bemvindo ul li a:hover {
+.produtos ul li a:hover {
     background: #e85846;
     color: #ffffff;
 }
