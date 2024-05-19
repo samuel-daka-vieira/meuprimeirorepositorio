@@ -181,4 +181,18 @@ body {
     display: block;
 }
 
+.computadores-menu {
+    position: absolute;
+   box-shadow: 0 0 2px #000000;
+   display: none;
+}
+
+.computadores-menu a {
+    display: block;
+}
+
+.computadores:hover .computadores-menu {
+    display: block;
+}
+
 
