@@ -112,7 +112,6 @@ body {
 }  
 
 .bemvindo ul {
-    margin-left: 50px;
     list-style: none;
     margin: 0px;
     padding: 70px 50px 50px;
@@ -121,6 +120,7 @@ body {
 
 .bemvindo ul li {
     margin-right: 150px;
+    margin-left: 50px;
 }
 
 .bemvindo ul li a {
