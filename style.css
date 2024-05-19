@@ -105,14 +105,15 @@ body {
 
 #bemvindo {
     margin-top: 15px;
-    padding: 20px;
-    font-family: sans-serif;
-    font-size: 16px;
 }
 
 #bemvindo ul {
     list-style: none;
     display: flex;
+}
+
+#bemvindo p {
+    margin-top: 10px;
 }
 
 #bemvindo ul li {
