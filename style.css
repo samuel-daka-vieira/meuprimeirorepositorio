@@ -108,14 +108,14 @@ body {
 }
 
 .bemvindo ul  {
+    width: 531px;
+    height: 207px;
     margin: 0px;
     padding: 35px;
     display: flex;
 }
 
 .bemvindo ul li {
-    width: 531px;
-    height: 207px;
     margin-bottom: 50px;
 }
 
