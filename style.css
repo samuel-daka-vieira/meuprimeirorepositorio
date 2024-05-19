@@ -112,7 +112,7 @@ body {
 }  
 
 .bemvindo {
-    text-align: center;
+    align-items: center;
 }
 
 .bemvindo ul {
