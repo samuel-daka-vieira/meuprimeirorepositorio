@@ -105,7 +105,10 @@ body {
 
 /*bem vindo*/
 
-
+img {
+    width: 0px;
+    height: 15px;
+}
 
 
 /*produtos*/
