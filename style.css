@@ -106,9 +106,11 @@ body {
 /*bem vindo*/
 
 .bemvindo {
+    margin-top: 20px;
+    padding: 15px;
     display: flex;
     align-items: center;
-    padding: 100px;
+
 }
 
 .bemvindo p {
