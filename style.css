@@ -105,9 +105,8 @@ body {
 
 /*bem vindo*/
 
-img {
-    width: 0px;
-    height: 15px;
+img, p {
+    display: inline-block;
 }
 
 
