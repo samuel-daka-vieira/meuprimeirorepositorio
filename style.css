@@ -105,10 +105,9 @@ body {
 
 /*bem vindo*/
 
-.bemvindo {
-    width: 880px;
-    padding: 0px;
-    margin-right: 150px;
+.bemvindo ul li {
+    text-align: center;
+
 }
 
 /*produtos*/
