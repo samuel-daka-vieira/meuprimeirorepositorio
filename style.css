@@ -106,7 +106,8 @@ body {
 /*bem vindo*/
 
 .bemvindo ul li {
-
+    width: 710px;
+    height: 96px;
     text-align: right;
 }
 
