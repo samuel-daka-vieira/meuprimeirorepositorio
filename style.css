@@ -103,21 +103,19 @@ body {
 
 /*bem vindo*/
 
-.bemvindo #imglogo {
+.bemvindo {
+    margin-top: 20px;
+}
+
+#imglogo ul li {
     margin-right: 20px;
 }
 
-.bemvindo #imglogo img {
-    max-width: 100px;
-    height: auto;
-}
-
-.bemvindo #texto {
-    flex: 1;
-    font-family: Tahoma, sans-serif;
-    font-size: 18px;
-    line-height: 1.5;
-    color: #333;
+#texto p {
+    margin-right: 50px;
+    margin-top: 10px;
+    color: #ffffff;
+    text-align: right;
 }
 
 /*produtos*/
