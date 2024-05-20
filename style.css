@@ -75,7 +75,9 @@ body {
 }
 
 .menu ul li {
-    margin-right: 20px;
+    height: 96px;
+    width: 710px;
+    list-style: none;
 }
 
 .menu ul li a {
@@ -103,23 +105,7 @@ body {
 
 /*bem vindo*/
 
-.bemvindo {
-    margin-top: 15px;
-    padding: 20px;
-    font-family: sans-serif;
-    font-size: 16px;
-}
 
-.bemvindo ul {
-    margin: 0px;
-    display: flex;
-}
-
-.menu ul li {
-    height: 96px;
-    width: 710px;
-    list-style: none;
-}
 
 /*produtos*/
 
