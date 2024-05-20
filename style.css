@@ -211,6 +211,20 @@ body {
     display: block;
 }
 
+/*promoção*/
+
+
+
+
+/*contato*/
+
+.linkscontato {
+    width: 185px;
+	padding: 20px;
+	float: left;
+}
+
+
 /*direitos*/
 
 .rodape{
