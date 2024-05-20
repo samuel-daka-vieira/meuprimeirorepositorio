@@ -224,6 +224,24 @@ body {
 	float: left;
 }
 
+.contato ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.contato ul li a {
+	text-decoration: none;
+	color: #FFFFFF;
+	font-family: Century Gothic, sans-serif;
+	font-size: 16px;
+}
+
+.contato ul li a:hover {
+	font-size: 18px;
+	color: #E85846;
+}
+
 
 /*direitos*/
 
