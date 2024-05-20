@@ -106,31 +106,6 @@ body {
 /*bem vindo*/
 
 .bemvindo {
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
-    height: 100vh; /* Para centralizar verticalmente na viewport */
-    padding: 20px;
-    background-color: #f9f9f9;
-}
-
-.bemvindo ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    width: 100%;
-}
-
-.bemvindo li.texto {
-    max-width: 600px; /* Defina uma largura máxima para o texto */
-    font-family: Tahoma, sans-serif;
-    font-size: 18px;
-    line-height: 1.5;
-    color: #333;
-}
-
-.bemvindo {
     width: 880px;
     padding: 0px;
     margin-right: 150px;
