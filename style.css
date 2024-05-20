@@ -110,12 +110,12 @@ body {
     font-size: 16px;
 }
 
-.menu ul {
+.bemvindo ul {
     margin: 0px;
     display: flex;
 }
 
-.menu ul li {
+.bemvindo ul li {
     height: 96px;
     width: 710px;
     list-style: none;
