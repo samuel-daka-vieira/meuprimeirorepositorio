@@ -43,7 +43,7 @@ body {
 .contato {
     position: relative;
     width: 100%;
-    height: 60px; 
+    height: 275px; 
     background-color: white; 
     opacity: 30%;
     border: 1px;
@@ -52,7 +52,7 @@ body {
 .rodape {
     position: relative;
     width: 100%;
-    height: 275px; 
+    height: 60px; 
     background-color: white; 
     opacity: 10%;
     border: 1px;
