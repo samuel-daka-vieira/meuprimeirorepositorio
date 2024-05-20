@@ -105,11 +105,10 @@ body {
 
 /*bem vindo*/
 
-.bemvindo p {
+.bemvindo ul li {
     width: 710px;
-    height: 90px;
-    text-align: left;
-    text-decoration: none;
+    height: 96px;
+    text-align: right;
 }
 
 /*produtos*/
