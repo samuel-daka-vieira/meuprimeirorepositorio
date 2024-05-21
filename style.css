@@ -227,11 +227,6 @@ body {
 	float: left;
 }
 
-.contato ul li {
-    margin-left: 200px;
-
-}
-
 .contato ul {
 	list-style: none;
 	margin: 0;
@@ -248,6 +243,11 @@ body {
 .contato ul li a:hover {
 	font-size: 18px;
 	color: #E85846;
+}
+
+.linkscontato ul li {
+    margin-left: 200px;
+    margin-top: 20px;
 }
 
 .linkscontato1 {
