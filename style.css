@@ -225,14 +225,13 @@ body {
     width: 185px;
 	padding: 20px;
 	float: left;
-  
+    display: inline-block;
 }
 
 .contato ul {
 	list-style: none;
 	margin: 30px;
 	padding: 0;
-    display: flex;
 }
 
 .contato ul li a {
