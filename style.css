@@ -222,6 +222,8 @@ body {
 /*contato*/
 
 .contato {
+    display: flex;
+    flex-direction: row;
     justify-content: space-evenly;
 }
 
