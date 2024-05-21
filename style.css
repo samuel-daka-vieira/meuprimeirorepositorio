@@ -263,6 +263,35 @@ body {
 	float: left;
 }
 
+.linksrodape3 a {
+	text-decoration: none;
+	font-family: century gothic, sans-serif;
+	font-size: 16px;
+	color: #FFFFFF;
+}
+
+.linksrodape3 ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.linksrodape3 ul li {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	margin-bottom: 5px;
+}
+
+.linksrodape3 ul li a, .imgrodape ul li img {
+	vertical-align: middle;
+}
+
+.linksrodape3 ul li img {
+	height: 25px;
+	width: 25px;
+}
+
 /*direitos*/
 
 .rodape{
