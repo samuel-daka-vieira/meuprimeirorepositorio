@@ -248,6 +248,15 @@ body {
 	float: left;
 }
 
+.dadosrodape1, .dadosrodape2 {
+	overflow: hidden;
+}
+
+.dadosrodape1 p, .dadosrodape2 p {
+	color: #FFFFFF;
+	text-indent: 0px;
+}
+
 
 /*direitos*/
 
