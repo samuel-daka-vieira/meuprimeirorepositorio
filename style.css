@@ -122,6 +122,9 @@ body {
 
 /*produtos*/
 
+
+
+
 .produtos {
     margin-top: 20px;
     padding: 15px;
@@ -138,7 +141,7 @@ body {
 }
 
 .produtos ul li {
-    
+    margin-left: 200px;
     margin-top: 20px;
 }
 
@@ -222,6 +225,11 @@ body {
     width: 185px;
 	padding: 20px;
 	float: left;
+}
+
+.contato ul li {
+    margin-left: 200px;
+    margin-top: 20px;
 }
 
 .contato ul {
