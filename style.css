@@ -225,6 +225,7 @@ body {
     width: 185px;
 	padding: 20px;
 	float: left;
+    display: inline-block;
 }
 
 .contato ul {
