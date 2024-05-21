@@ -221,6 +221,10 @@ body {
 
 /*contato*/
 
+.contato {
+    justify-content: space-evenly;
+}
+
 .linkscontato {
     width: 185px;
 	padding: 20px;
