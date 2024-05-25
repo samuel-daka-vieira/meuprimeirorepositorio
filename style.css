@@ -216,10 +216,15 @@ body {
 
 /*promoção*/
  
+.promocao {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
 
 .promocao ul li {
     display: inline-block;
-    margin-right: 50px;
+
  }
 
  .promocao img {
@@ -234,7 +239,9 @@ body {
 /*contato*/
 
 .contato {
-   
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
 }
 
 .linkscontato {
