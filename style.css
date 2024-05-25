@@ -345,6 +345,9 @@ body {
 }
 
 /*direitos*/
+.rodape {
+    align-items: center;
+}
 
 .rodaé h2 {
     text-align: center;
