@@ -346,12 +346,12 @@ body {
 
 /*direitos*/
 .rodape {
-    align-items: center;
+    text-align: right;
 }
 
 .rodaé h2 {
     text-align: center;
-    align-items: center;
+    
 }
 
 .direitos {
