@@ -223,9 +223,7 @@ body {
 }
 
 .promocao ul li {
-    display: inline-block;
-    display: flex;
-    gap: 20px;
+  
 }
 
  .promocao img {
