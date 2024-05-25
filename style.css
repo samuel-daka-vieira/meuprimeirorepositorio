@@ -217,7 +217,7 @@ body {
 /*promoção*/
  
 
-.promocao {
+.promocao ul li {
     display: inline-block;
  }
 
