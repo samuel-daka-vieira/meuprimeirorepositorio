@@ -219,6 +219,7 @@ body {
 
 .promocao ul li {
     display: inline-block;
+    margin-right: 50px;
  }
 
  .promocao img {
