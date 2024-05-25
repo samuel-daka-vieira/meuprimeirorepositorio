@@ -224,9 +224,9 @@ body {
 
 .promocao ul li {
     display: inline-block;
-    padding: 30px;
-
- }
+    display: flex;
+    gap: 20px;
+}
 
  .promocao img {
     width: 200px;
