@@ -223,7 +223,7 @@ body {
 }
 
 .promocao ul li {
-  
+    display: inline-block;
 }
 
  .promocao img {
