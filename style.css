@@ -218,8 +218,9 @@ body {
  
 .promocao {
     display: flex;
-    flex-direction: row;
+    flex-direction: row; <!-- organiza os itens em uma linha horizontal.-->
     justify-content: space-evenly;
+    padding: 30px;
 }
 
 .promocao ul li {
