@@ -93,6 +93,7 @@ body {
     height: 35px;
     width: 35px;
     margin-left: 80px;
+    padding: 10px;
 }
 
 .menu ul li a:hover {
