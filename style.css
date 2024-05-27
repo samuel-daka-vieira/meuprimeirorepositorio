@@ -78,6 +78,7 @@ body {
     height: 96px;
     width: 710px;
     list-style: none;
+    margin-left: 200px; 
 }
 
 .menu ul li a {
