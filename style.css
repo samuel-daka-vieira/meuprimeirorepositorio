@@ -89,6 +89,11 @@ body {
 	color: #000000;
 }
 
+.menu img {
+    height: 10px;
+    width: 10px;
+}
+
 .menu ul li a:hover {
     background: #e85846;    
     color: #FFFFFF;
